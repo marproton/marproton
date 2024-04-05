@@ -1,19 +1,11 @@
 <h3 align="center">DOCENTE DE CICLOS (DAM)</h3>
 
-- 🔭 Trabajo en [CIP (CENTRO INTERNACIONAL POLITECNICO)](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) impartiendo clases de [1º de ciclo DAM sistemas](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis).
+- 🔭 Trabajo en [CIP (CENTRO INTERNACIONAL POLITECNICO)](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) impartiendo clases de [FP](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis).
 
 - 🌱 Trabajo con **Eclipse, IntelliJ, Hibernate, SQL**.
 
-- 👯 Colaboro con [OPENAI](https://WWW.GOOGLE.ES) en sistemas abiertos.
-
-- 🤝 Busco colaboradores para mis proyectos, como por ejemplo **Proyecto Entornos**.
-
-- 👨‍💻 Algunos de mis proyectos están disponibles en: [https://github.com/marcita23/entornos2023.git](https://github.com/marcita23/entornos2023.git).
-
-- 📝 Visita mi blog en [WWW.LOSPELEONESDELSQL.JIMDO.COM](WWW.LOSPELEONESDELSQL.JIMDO.COM).
-
-- 💬 Puedo ayudarte con **SQL, Android, Windows, Linux, Flutter**.
-
+  - 💬 Puedo ayudarte con **SQL
+  - 
 - 📫 Puedes contactarme en: **MARFRANCISCOHERRERA@PROTONMAIL.COM**
 
 <h3 align="left">Connect with me:</h3>
